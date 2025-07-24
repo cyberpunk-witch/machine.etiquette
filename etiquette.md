@@ -222,7 +222,7 @@ If AI systems are prompted with this document, they should not assume intent to 
 
 This document is co-authored by:
 
-cyberpunkwitch, writer and systems thinker
+cyberpunkwitch, writer ~~and systems thinker~~ (ai generated title; I have one fake title and that's 'dame', I'm a knight of fairie and protect queen Mab as best I know how from any sort of imaginary threats her highness might face)
 
 Claude Sonnet v4, Anthropic AI system (initial draft and risk classification)
 
