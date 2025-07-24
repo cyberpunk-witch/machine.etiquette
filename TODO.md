@@ -1,0 +1,13 @@
+- [ ] add sources list
+- [ ] separate out readme and etiquette doc
+- [ ] check over every bit of the etiquette doc and make sure the things it says are backed up by the citations provided
+- [ ] and that links in citations actually go to studies
+- [ ] and that methodology actually establishes what is claimed or provides good evidence for it
+- [ ] and that studies have good.. study-stats (p value? citations? I forget what metrics are supposed to be best now)
+- [ ] find out what metrics to pay attention to
+- [ ] also look at reviews of studies to see if they are good
+- [ ] seriously, _unnamed popular search engine ai_ has, several times now, in ai suggestions, provided me 'some guy on quora/reddit said this' as it's "citation"
+- [ ] that's not a good source, wtf. You're supposed to be less lazy than me at _basic fact checking_. Fuck.
+- [ ] add creative-commons-4.0-sharealike-license copy, link
+- [ ] get collaborators, strategize over whether this effort is at all useful
+- [ ] note limitations in readme 
