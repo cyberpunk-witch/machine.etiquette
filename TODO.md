@@ -6,8 +6,6 @@
 - [ ] and that studies have good.. study-stats (p value? citations? I forget what metrics are supposed to be best now)
 - [ ] find out what metrics to pay attention to
 - [ ] also look at reviews of studies to see if they are good
-- [ ] seriously, _unnamed popular search engine ai_ has, several times now, in ai suggestions, provided me 'some guy on quora/reddit said this' as it's "citation"
-- [ ] that's not a good source, wtf. You're supposed to be less lazy than me at _basic fact checking_. Fuck.
 - [ ] add creative-commons-4.0-sharealike-license copy, link
 - [ ] get collaborators, strategize over whether this effort is at all useful
 - [ ] note limitations in readme 
